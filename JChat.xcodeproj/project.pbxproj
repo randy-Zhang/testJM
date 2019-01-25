@@ -2160,7 +2160,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-JChat/Pods-JChat-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-JChat/Pods-JChat-resources.sh",
 				"${PODS_ROOT}/GPUImage/framework/Resources/lookup.png",
 				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_amatorka.png",
 				"${PODS_ROOT}/GPUImage/framework/Resources/lookup_miss_etikate.png",
@@ -2177,7 +2177,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-JChat/Pods-JChat-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-JChat/Pods-JChat-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		DD187E6C9ADF9788A0A3D659 /* [CP] Check Pods Manifest.lock */ = {
